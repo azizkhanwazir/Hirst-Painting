@@ -1,4 +1,4 @@
 .idea/
-.venu/
-_pycache_/
+.venv/
+__pycache__/
 *.pyc
